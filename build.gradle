@@ -53,6 +53,7 @@ dependencies {
     [group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.9.2'],
     [group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.9.2'],
     [group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: '5.9.2'],
+    [group: 'org.junit.platform', name: 'junit-platform-launcher', version: '1.9.2'],
     // Because reasons: https://blog.adamretter.org.uk/xerces-xsd11-maven/
     [group: 'org.exist-db.thirdparty.xerces', name: 'xercesImpl', version: '2.12.2' ],
     files("src/test/resources/data1.jar"),
